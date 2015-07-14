@@ -1,2 +1,2 @@
-# swaggersailsreact
-swaggersailsreacall experiments
+# A [Swagger](https://www.npmjs.com/package/swagger) / [Sails](http://sailsjs.org) application
+# Just playing w/ swagger / sails - gonna try to use reacall and react ui builder...
